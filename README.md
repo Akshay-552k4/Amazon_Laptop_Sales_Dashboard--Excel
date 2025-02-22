@@ -7,11 +7,17 @@ This project involves creating an **interactive Excel dashboard** to analyze and
 
 ## 🎯 **Objective**
 The primary goal of this dashboard is to provide a **comprehensive analysis** of Amazon’s laptop sales, enabling stakeholders to make data-driven decisions. Key areas of focus include:
+
 ✔ **Sales Trends:** Tracking sales volume and revenue patterns over time.
+
 ✔ **Top Products:** Identifying best-selling laptop models and brands.
+
 ✔ **Customer Insights:** Analyzing pricing trends, customer preferences, and ratings.
+
 ✔ **Geographical Analysis:** Evaluating regional sales performance (if data allows).
+
 ✔ **Performance Indicators:** Monitoring key metrics like Average Order Value (AOV), conversion rates, and return rates.
+
 ✔ **Inventory Management:** Tracking stock levels and predicting demand for better planning.
 
 ---
