@@ -20,7 +20,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ✔ **Inventory Management:** Tracking stock levels and predicting demand for better planning.
 
-
+![Image](https://github.com/user-attachments/assets/489a916c-2283-4438-ad2b-36343f84a273)
 
 ## 📊 **Data Transformation & Features**
 - **Data Cleaning:** Replaced blanks with suitable attributes and structured data for analysis.
