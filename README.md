@@ -4,6 +4,7 @@
 ## 📌 **Project Overview**
 This project involves creating an **interactive Excel dashboard** to analyze and monitor Amazon's laptop sales. The dataset was cleaned and transformed, handling missing values and structuring data for effective visualization. The dashboard leverages **Pivot Tables, Pivot Charts, and Automation** to provide dynamic insights into sales trends, customer behavior, and inventory management.
 
+
 ## 🎯 **Objective**
 The primary goal of this dashboard is to provide a **comprehensive analysis** of Amazon’s laptop sales, enabling stakeholders to make data-driven decisions. Key areas of focus include:
 
@@ -19,8 +20,10 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ✔ **Inventory Management:** Tracking stock levels and predicting demand for better planning.
 
+
 ## 🔗 Dataset Details
 - **Source**: [Amazon dataset](https://github.com/Akshay-552k4/Amazon_Laptop_Sales_Dashboard--Excel/blob/main/Data/amazon_laptop_sales.csv)
+
 
 ## 📊 Dashboard Preview  
 ![Image](https://github.com/user-attachments/assets/ed5d654b-7691-4b28-9da4-363f102c8708)
@@ -35,8 +38,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 - **Brand Performance Analysis:** Identified top-performing brands based on sales and product count.
 - **Customer Review Insights:** Evaluated price distribution against customer ratings to assess product demand.
 
-
-
+  
 ## 📌 **Key Insights from Analysis**
 📌 **Top Brands Performance:** Dell, HP, and ROKC emerged as the leading brands based on product count.
 
@@ -45,7 +47,6 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 📌 **Apple Sales Breakdown:** MacBook Pro and MacBook Air series recorded the highest sales.
 
 📌 **Pricing vs. Ratings:** Laptops with ratings above 4.5 were priced between **$138 - $168**.
-
 
 
 ## 🖥 **Dashboard Features**
