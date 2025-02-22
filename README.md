@@ -27,8 +27,11 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ## 📌 **Key Insights from Analysis**
 📌 **Top Brands Performance:** Dell, HP, and ROKC emerged as the leading brands based on product count.
+
 📌 **Stock Availability:** 16GB and 32GB RAM variants had the highest available stock.
+
 📌 **Apple Sales Breakdown:** MacBook Pro and MacBook Air series recorded the highest sales.
+
 📌 **Pricing vs. Ratings:** Laptops with ratings above 4.5 were priced between **$138 - $168**.
 
 ---
