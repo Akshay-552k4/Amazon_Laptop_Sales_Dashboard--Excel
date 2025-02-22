@@ -20,6 +20,9 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ✔ **Inventory Management:** Tracking stock levels and predicting demand for better planning.
 
+## 🔗 Dataset Details
+- **Source**: [Netflix dataset](https://github.com/Akshay-552k4/Netflix-Content-Analysis-Dashboard/tree/main/Data)
+
 ## 📊 Dashboard Preview  
 ![Image](https://github.com/user-attachments/assets/ed5d654b-7691-4b28-9da4-363f102c8708)
 
