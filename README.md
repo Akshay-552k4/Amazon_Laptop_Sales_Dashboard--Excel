@@ -1,7 +1,7 @@
 # **Amazon Laptop Sales Report - Excel Dashboard**
 
 ## 📌 **Project Overview**
-This project involves creating an **interactive Excel dashboard** to analyze and monitor Amazon's laptop sales. The dataset was cleaned and transformed, handling missing values and structuring data for effective visualization. The dashboard leverages **Pivot Tables, Pivot Charts, and VBA automation** to provide dynamic insights into sales trends, customer behavior, and inventory management.
+This project involves creating an **interactive Excel dashboard** to analyze and monitor Amazon's laptop sales. The dataset was cleaned and transformed, handling missing values and structuring data for effective visualization. The dashboard leverages **Pivot Tables, Pivot Charts, and Automation** to provide dynamic insights into sales trends, customer behavior, and inventory management.
 
 ---
 
