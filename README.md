@@ -38,9 +38,13 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ## 🖥 **Dashboard Features**
 ✅ **Interactive Summary Page:** Displays key sales insights in a single view.
+
 ✅ **Automated Pivot Table Analysis:** Enables data grouping and trend identification.
+
 ✅ **Dynamic Charts & Visuals:** Helps stakeholders easily interpret sales performance.
+
 ✅ **VBA-Enabled Automation:** Refreshes pivot tables and sorts data automatically.
+
 ✅ **User-Friendly Interface:** Allows seamless navigation between reports and insights.
 
 ---
