@@ -23,7 +23,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 ## 📊 Dashboard Preview  
 ![Image](https://github.com/user-attachments/assets/489a916c-2283-4438-ad2b-36343f84a273)
 
-🔗 **[Click here to view the full dashboard](https://github.com/Akshay-552k4/AdventureWorks-BI-Report/blob/main/Dashboard.pbix)**
+🔗 **[Click here to view the full dashboard](https://github.com/Akshay-552k4/Amazon_Laptop_Sales_Dashboard--Excel/blob/main/Dashboard_xlsx/Amazon%20Laptop%20Sales%20Project.xlsx)**
 
 
 ## 📊 **Data Transformation & Features**
