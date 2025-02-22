@@ -53,17 +53,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ✅ **User-Friendly Interface:** Allows seamless navigation between reports and insights.
 
-
-
-## 📥 **How to Use the Dashboard**
-1. Open the **Excel file** and navigate to the **Summary Dashboard** tab.
-2. Use **filters & slicers** to explore data by brand, price range, and stock levels.
-3. Analyze sales trends, product performance, and customer insights.
-4. Click the **"Refresh Data" button** (if available) to update pivot tables dynamically.
-5. Use the built-in **VBA scripts** to automate data refresh and sorting.
-
 ---
 
-## 📜 **License**
-This project is licensed under the **MIT License**. Feel free to modify and use it for your analytical needs.
+⭐ If you like this project, don’t forget to give it a **star** on GitHub! 🚀
 
