@@ -1,9 +1,8 @@
 # **Amazon Laptop Sales Report - Excel Dashboard**
 
+
 ## 📌 **Project Overview**
 This project involves creating an **interactive Excel dashboard** to analyze and monitor Amazon's laptop sales. The dataset was cleaned and transformed, handling missing values and structuring data for effective visualization. The dashboard leverages **Pivot Tables, Pivot Charts, and Automation** to provide dynamic insights into sales trends, customer behavior, and inventory management.
-
-
 
 ## 🎯 **Objective**
 The primary goal of this dashboard is to provide a **comprehensive analysis** of Amazon’s laptop sales, enabling stakeholders to make data-driven decisions. Key areas of focus include:
@@ -21,7 +20,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 ✔ **Inventory Management:** Tracking stock levels and predicting demand for better planning.
 
 ## 🔗 Dataset Details
-- **Source**: [Netflix dataset](https://github.com/Akshay-552k4/Netflix-Content-Analysis-Dashboard/tree/main/Data)
+- **Source**: [Amazon dataset](https://github.com/Akshay-552k4/Amazon_Laptop_Sales_Dashboard--Excel/blob/main/Data/amazon_laptop_sales.csv)
 
 ## 📊 Dashboard Preview  
 ![Image](https://github.com/user-attachments/assets/ed5d654b-7691-4b28-9da4-363f102c8708)
