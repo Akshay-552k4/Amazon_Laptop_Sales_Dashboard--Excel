@@ -3,7 +3,7 @@
 ## 📌 **Project Overview**
 This project involves creating an **interactive Excel dashboard** to analyze and monitor Amazon's laptop sales. The dataset was cleaned and transformed, handling missing values and structuring data for effective visualization. The dashboard leverages **Pivot Tables, Pivot Charts, and Automation** to provide dynamic insights into sales trends, customer behavior, and inventory management.
 
----
+--
 
 ## 🎯 **Objective**
 The primary goal of this dashboard is to provide a **comprehensive analysis** of Amazon’s laptop sales, enabling stakeholders to make data-driven decisions. Key areas of focus include:
@@ -20,7 +20,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ✔ **Inventory Management:** Tracking stock levels and predicting demand for better planning.
 
----
+--
 
 ## 📊 **Data Transformation & Features**
 - **Data Cleaning:** Replaced blanks with suitable attributes and structured data for analysis.
@@ -29,7 +29,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 - **Brand Performance Analysis:** Identified top-performing brands based on sales and product count.
 - **Customer Review Insights:** Evaluated price distribution against customer ratings to assess product demand.
 
----
+--
 
 ## 📌 **Key Insights from Analysis**
 📌 **Top Brands Performance:** Dell, HP, and ROKC emerged as the leading brands based on product count.
@@ -40,7 +40,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 📌 **Pricing vs. Ratings:** Laptops with ratings above 4.5 were priced between **$138 - $168**.
 
----
+--
 
 ## 🖥 **Dashboard Features**
 ✅ **Interactive Summary Page:** Displays key sales insights in a single view.
@@ -53,7 +53,7 @@ The primary goal of this dashboard is to provide a **comprehensive analysis** of
 
 ✅ **User-Friendly Interface:** Allows seamless navigation between reports and insights.
 
----
+--
 
 ## 📥 **How to Use the Dashboard**
 1. Open the **Excel file** and navigate to the **Summary Dashboard** tab.
